@@ -6,6 +6,9 @@ echo "Deploying MkDocs site..."
 # Change to the deployment directory
 cd /var/www/manush-e-docs
 
+chown -R ubuntu:ubuntu /var/www/manush-e-docs
+chmod -R 755 /var/www/manush-e-docs
+
 # Set up a virtual environment
 python3 -m venv /var/www/manush-e-docs/.venv
 
