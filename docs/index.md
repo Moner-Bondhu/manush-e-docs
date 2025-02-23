@@ -16,10 +16,10 @@ Manush-E integrates with our existing service infrastructure. The children get a
 
 
 ## Repositories & Resources
-- **Backend (Laravel)**: [manush-e-backend](https://github.com/manush-e/manush-e-backend-public)
-- **Frontend (Vue.js)**: [manush-e-frontend](https://github.com/manush-e/manush-e-frontend-public)
-- **Documentation**: [manush-e-docs](https://github.com/manush-e/manush-e-docs)
-- **Issue Tracker**: [GitHub Issues](https://github.com/manush-e/manush-e-docs/issues)
+- **Backend (Laravel)**: [manush-e-backend](https://github.com/Moner-Bondhu/manush-e-backend-public)
+- **Frontend (Vue.js)**: [manush-e-frontend](https://github.com/Moner-Bondhu/manush-e-frontend-public)
+- **Documentation**: [manush-e-docs](https://github.com/Moner-Bondhu/manush-e-docs)
+- **Issue Tracker**: [GitHub Issues](https://github.com/Moner-Bondhu/manush-e-docs/issues)
 
 ## Community & Contribution
 Manush-E is built by the open-source community, and we welcome contributors! Check out our [Contribution Guide](contributing.md) for details.
