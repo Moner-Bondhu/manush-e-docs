@@ -6,8 +6,15 @@ echo "Deploying MkDocs site..."
 # Change to the deployment directory
 cd /var/www/manush-e-docs
 
-# Install dependencies if needed
+# Set up a virtual environment
+python3 -m venv /var/www/manush-e-docs/.venv
+
+# Activate the virtual environment
+source /var/www/manush-e-docs/.venv/bin/activate
+
+# Install MkDocs in the virtual environment
 pip install -r requirements.txt || true
+pip install mkdocs
 
 # Build the documentation site
 mkdocs build --clean
