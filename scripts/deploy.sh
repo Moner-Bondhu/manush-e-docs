@@ -13,6 +13,7 @@ python3 -m venv /var/www/manush-e-docs/.venv
 source /var/www/manush-e-docs/.venv/bin/activate
 
 # Install MkDocs in the virtual environment
+pip install -r requirements.txt || true
 pip install mkdocs
 
 # Build the documentation site
