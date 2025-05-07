@@ -16,8 +16,8 @@ Manush-E integrates with our existing service infrastructure. The children get a
 
 
 ## Repositories & Resources
-- **Backend (Laravel)**: [manush-e-backend](https://github.com/Moner-Bondhu/manush-e-backend-public)
-- **Frontend (Vue.js)**: [manush-e-frontend](https://github.com/Moner-Bondhu/manush-e-frontend-public)
+- **Backend (Laravel)**: [manush-e-backend](https://github.com/Moner-Bondhu/manush-e-mvp-1)
+- **Frontend (Vue.js)**: [manush-e-frontend](https://github.com/Moner-Bondhu/manush-e-mvp-1-backend)
 - **Documentation**: [manush-e-docs](https://github.com/Moner-Bondhu/manush-e-docs)
 - **Issue Tracker**: [GitHub Issues](https://github.com/Moner-Bondhu/manush-e-docs/issues)
 
