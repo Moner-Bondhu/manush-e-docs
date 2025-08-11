@@ -1,6 +1,6 @@
 # Licensing of Manush-E
 
-## 🎯 License Straetgy
+## 🎯 License Strategy
 
 - **License Used**: [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
 - **Applies To**:  
