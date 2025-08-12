@@ -31,7 +31,7 @@ We believe that every member has a voice, and we encourage active participation 
 
 ## Licensing Strategy
 
-[TBA]
+See [LICENSE](license.md) for details.
 
 ## Identification of Key Trademarks
 
