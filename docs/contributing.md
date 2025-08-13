@@ -65,7 +65,7 @@ By submitting a contribution, you affirm that you have the right to, and do, lic
 
 ## 🧠 Code of Conduct
 
-We follow a [Contributor Covenant](https://www.contributor-covenant.org/) Code of Conduct. All interactions in issues, pull requests, and discussions should be respectful and inclusive.
+Please check our [code-of-conduct](code-of-conduct.md) before contributing to our repositories.
 
 ---
 
