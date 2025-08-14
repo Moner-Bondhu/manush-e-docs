@@ -109,7 +109,21 @@ Authenticate a user using the OTP sent to their phone number.
     "user": {
       "id": 1,
       "phone_number": "017XXXXXXXX",
-      "name": "John Doe"
+      "name": "John Doe",
+      "is_onboarded": true,
+      "profiles": [
+        {
+          "id": 1,
+          "full_name": "John Doe",
+          "type": "child",
+          "relation_type": "",
+          "demography": {
+            "age": 21,
+            "gender": "female",
+            "grade": 5
+          }
+        }
+      ]
     }
   },
   "message": "authenticated"

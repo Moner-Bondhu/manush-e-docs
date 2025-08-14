@@ -31,9 +31,35 @@ Fetch all scales visible to a specific profile type along with completion status
       "id": 1,
       "name": "Well-being Scale",
       "visible_to": "child",
-      "totalQuestions": 10,
-      "response_count": 7,
-      "status": "incomplete"
+      "questions": [
+        {
+          "id": 1,
+          "text": "Question here...",
+          "subtext": "Additional subtext for question",
+          "image": "link-to-image/abc",
+          "type": "MultipleChoice",
+          "order": 1,
+          "scale": {
+            // Scale resource
+          },
+          "options": [
+            {
+              "id": 1,
+              "text": "Text for the option",
+              "is_image": false,
+              "value": 10,
+              "order": 1
+            },
+            {
+              "id": 2,
+              "text": "Text for the option",
+              "is_image": false,
+              "value": 20,
+              "order": 2
+            }
+          ]
+        }
+      ]
     }
   ],
   "message": "fetched"
